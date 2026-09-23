@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:ADD YOUR SITEMAP URL HERE (example :- https://umadwivedi03.github.io/portfolio/sitemap.xml)
