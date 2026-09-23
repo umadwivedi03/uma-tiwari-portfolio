@@ -1,6 +1,5 @@
 # Uma Tiwari Portfolio
 
-Personal developer portfolio built with React + Vite. Content is aligned with Uma Tiwari's current resume: 6+ years of full-stack development, enterprise SaaS, React/Next.js, Node.js, TypeScript, cloud, and AI integrations.
 
 ## Run locally
 
